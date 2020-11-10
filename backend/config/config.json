@@ -1,0 +1,8 @@
+{
+  "room": {
+    "name": "Braybo",
+    "layout": "full-width",
+    "style": "classic",
+    "motd": "Make me a sandwich"
+  }
+}
