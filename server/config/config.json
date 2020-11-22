@@ -1,8 +1,6 @@
 {
   "room": {
-    "name": "Braybo",
-    "layout": "full-width",
-    "style": "classic",
-    "motd": "Make me a sandwich"
+    "name": "My Room Name",
+    "motd": "This is the message of the day"
   }
 }
