@@ -1,0 +1,6 @@
+{
+  "room": {
+    "name": "My Room Name",
+    "motd": "This is the message of the day"
+  }
+}
