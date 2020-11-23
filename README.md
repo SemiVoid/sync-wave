@@ -10,9 +10,8 @@ The backend runs on a Node JS Express server. The backend makes the real-time sy
 ## Setup
 To run this application locally, follow the below steps.
 1. Clone this Repo
-2. Run `npm install` within frontend folder
-3. Build frontend with `npm run build`
-4. Run `npm install` within backend folder
-5. (Optional) Create environment variables based on sample
-6. Run Server in backend folder with `npm start`
-7. Go to localhost on browser. Default port is 5000
+2. Run `npm install`
+3. (Optional) Create environment variables based on sample
+4. Run Server with `npm run server-dev`
+5. Run Frontend with `npm start`
+6. Go to localhost on browser. Default port is 3000
